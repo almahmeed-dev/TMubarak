@@ -1,0 +1,1 @@
+export { app, auth, analytics, storage, db, collections } from '../config/firebase';
